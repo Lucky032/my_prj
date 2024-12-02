@@ -1,4 +1,4 @@
 # my_prj
 This is my first git repository
 <br>
-Author:karnam laxman
+Author:karnam laxman(tkr college)
